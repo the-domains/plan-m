@@ -1,0 +1,14 @@
+layout_spectrum: 0.31150022172369063
+typography_spectrum: 0.3333129081875086
+color:
+  brandStrength: 0.4437594418413937
+  lightness: 0.014246491948142648
+  saturation: 0.8052869571838528
+  rhythmicContrast: 0.2490610727109015
+  brandColors:
+    - '#293B95'
+    - '#EA2129'
+    - '#F7F9F9'
+    - '#49C8EF'
+    - '#FBAA1E'
+name: Plan-M
